@@ -6,8 +6,7 @@ import Child from './Child';
 function App() {
   return (
     <div className="App">
-
-      <Child  name='Sunny Ali'/>
+      <Child  name='Sunny Ali Ecommerce'/>
     </div>
   );
 }
